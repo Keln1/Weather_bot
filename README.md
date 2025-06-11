@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/YourWeatherBot">
+  <a href="https://t.me/@Weather_minov_bot">
     <img src="https://img.shields.io/badge/%F0%9F%93%A2%20Try%20it%20on-Telegram-1e1e1e?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://github.com/yourusername/telegram-weather-bot/archive/refs/heads/main.zip">
